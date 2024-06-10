@@ -105,7 +105,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Classroom',
-			icon: 'prentation',
+			icon: 'presentation',
 			link: 'https://classroom.google.com',
 		},
 		{
