@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Ingo',
 	imageBackground: false,
-	openInNewTab: false,
+	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Classroom',
-			icon: 'library-big',
-			link: 'https://classroom.google.com',
+			name: 'Icons',
+			icon: 'square',
+			link: 'https://fonts.google.com/icons',
 		},
 		{
 			id: '5',
@@ -92,39 +92,39 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'Figma',
+			icon: 'figma',
+			link: 'https://figma.com/',
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
-		},
-		{
-			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
-		},
-		{
-			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
-		},
-		{
-			id: '5',
 			name: 'Hashnode',
 			icon: 'pen-tool',
 			link: 'https://hashnode.com/',
 		},
 		{
+			id: '3',
+			name: 'Classroom',
+			icon: 'prentation',
+			link: 'https://classroom.google.com',
+		},
+		{
+			id: '4',
+			name: 'Mathspace',
+			icon: 'circle-plus',
+			link: 'https://mathspace.co/student',
+		},
+		{
+			id: '5',
+			name: 'Stile',
+			icon: 'test-tube',
+			link: 'https://stileapp.com/',
+		},
+		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'Amazon',
+			icon: 'shopping-bag',
+			link: 'https://amazon.com/',
 		},
 	],
 
