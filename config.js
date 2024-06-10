@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: '5ae2a9f7e516c274add4d6a30ebc5c4c', // Write here your API Key
-	weatherIcons: 'White', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Onedark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://gmail.com',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Gemini',
+			icon: 'sparkles',
+			link: 'https://gemini.google.com/u/1',
 		},
 		{
 			id: '4',
