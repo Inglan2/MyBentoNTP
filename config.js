@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Stile',
+			icon: 'test-tube',
+			link: 'https://stileapp.com/',
 		},
 		{
 			id: '3',
@@ -116,15 +116,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Stile',
-			icon: 'test-tube',
-			link: 'https://stileapp.com/',
+			name: 'Drive',
+			icon: 'triangle',
+			link: 'https://drive.google.com/',
 		},
 		{
 			id: '6',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'OneDrive',
+			icon: 'cloud',
+			link: 'https://office.com/',
 		},
 	],
 
