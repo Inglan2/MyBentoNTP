@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Ingo',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -71,21 +71,21 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Classroom',
+			icon: 'library-big',
+			link: 'https://classroom.google.com',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Pixlr',
+			icon: 'brush',
+			link: 'https://pixlr.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'SmasnugChat',
+			icon: 'message-square',
+			link: 'https://smasnugchat.github.io/',
 		},
 	],
 
